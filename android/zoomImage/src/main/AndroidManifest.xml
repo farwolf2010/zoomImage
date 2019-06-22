@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.farwolf.zoomImage"
+    >
+
+    <application>
+        <activity
+            android:name="com.farwolf.activity.ImageViewPagerActivity_"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"></activity>
+    </application>
+</manifest>
