@@ -6,7 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <WeexSDK/WeexSDK.h>
+#import <PlusWeexSDK/WeexSDK.h>
  
 
 @interface WXZoomImage : NSObject<WXModuleProtocol>
