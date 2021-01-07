@@ -1,5 +1,5 @@
 apply plugin: 'com.android.library'
-def AAVersion='4.5.2'
+def AAVersion='4.7.0'
 android {
     compileSdkVersion 26
 
